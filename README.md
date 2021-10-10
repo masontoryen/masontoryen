@@ -2,7 +2,7 @@
 - 👀 I’m interested in music production/music business
 - 🌱 I’m currently learning cryptocurrency 
 - 💞️ I’m looking to collaborate on music business projects for artists
-- 📫 How to reach me: masontoryen@gmail.com
+- 📫 How to reach me: mason@mixdownstudio.com.mx
 
 <!---
 masontoryen/masontoryen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
